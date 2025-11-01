@@ -1,30 +1,81 @@
-<h1 align="center">Hi 👋, I'm Arpan Ghosh</h1>
-<h3 align="center">Turning code into ecosystems — AI-driven, human-centered, and future-ready.</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#00A6FF;">Arpan Ghosh</span></h1>
+<h3 align="center">✨ Building intelligent systems — and products I'd love to use.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanxneuro&label=Profile%20views&color=0e75b6&style=flat" alt="arpanxneuro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpanxneuro" alt="arpanxneuro" /></a> </p>
-
-- 📫 How to reach me **arpanghosh2106@zohomail.in**
-
-- ⚡ Fun fact **I sometimes debug my code by talking to it — and surprisingly, it listens more than most people do. 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arpan ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpan ghosh" height="30" width="40" /></a>
-<a href="https://kaggle.com/arpan2106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpan2106" height="30" width="40" /></a>
-<a href="https://fb.com/arpan ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpan ghosh" height="30" width="40" /></a>
-<a href="https://instagram.com/4.rpan_9.h0sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4.rpan_9.h0sh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arpan_ai_2c_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpan_ai_2c_19" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arpanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpanx" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arpanghou3qs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arpanghou3qs" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpanxneuro&label=Profile+Views&color=00A6FF&style=flat-square" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanxneuro&show_icons=true&locale=en&layout=compact" alt="arpanxneuro" /></p>
+### 🧭 About  
+<p align="center">
+🎓 CSE (AI) Undergrad | Tech Creator | Builder at Heart  
+<br>🚀 Exploring AI × Systems × Product Design  
+<br>🧠 Turning ideas into tools that empower people
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpanxneuro&show_icons=true&locale=en" alt="arpanxneuro" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+MERN+%7C+System+Design;Learning%2C+Building%2C+and+Innovating+🧠;Transforming+Ideas+into+Impactful+Tech+💡" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanxneuro&" alt="arpanxneuro" /></p>
+---
+
+### 📊 Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpanxneuro&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanxneuro&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arpanxneuro&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧩 Core Domains
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-232323?style=for-the-badge&logo=openai&logoColor=00A6FF" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-232323?style=for-the-badge&logo=tensorflow&logoColor=F7A41D" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-232323?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Product%20Engineering-232323?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,tailwind,typescript,nodejs,express,mongodb,postgres,git,postman,html,css,c,matlab&perline=8" />
+</p>
+
+---
+
+### 🌐 Social & Network  
+<p align="center">
+  <a href="mailto:arpanghosh2106@zohomail.in"><img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white&labelColor=0A66C2&color=0A66C2" /></a>
+  <a href="https://linkedin.com/in/arpan-ghosh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" /></a>
+  <a href="https://kaggle.com/arpan2106"><img src="https://img.shields.io/badge/Kaggle-00B4FF?style=flat&logo=kaggle&logoColor=white&labelColor=00B4FF&color=00B4FF" /></a>
+  <a href="https://leetcode.com/arpanx"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white&labelColor=F89F1B&color=F89F1B" /></a>
+  <a href="https://instagram.com/4.rpan_9.h0sh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" /></a>
+</p>
+
+---
+
+### 🚀 Featured Work
+| Project | Brief | Stack |
+|----------|--------|-------|
+| **AlignX AI** | Early-stage AI profiling & career-insight engine | FastAPI · Python · NLP · ML |
+| **Codnex CLI** | CLI for organized coding-problem management | TypeScript · Commander · Inquirer |
+
+---
+
+### 🎧 Quick Fact  
+<p align="center">
+  “I debug through conversations with my code — and it actually answers.” 😄  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Engineer+%7C+Innovator+%7C+AI+Explorer;Crafting+Tech+I+Love+to+Use;Designing+Tomorrow's+Systems+Today" />
+</p>
+
+<p align="center"><i>“Code is the architecture of tomorrow — and I’m drawing the blueprint.”</i></p>
