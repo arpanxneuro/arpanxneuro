@@ -20,13 +20,19 @@
 
 ---
 
-### 📊 Analytics  
+### ⚡ CodeVault — My Problem-Solving Repository  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpanxneuro&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanxneuro&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://img.shields.io/badge/Project-Highlight-00A6FF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+> **🧩 CodeVault** — A centralized repository of coding problems and algorithmic solutions, neatly organized by competitive programming platforms.  
+>
+> 🚀 *Built to streamline and track my problem-solving journey across* **LeetCode**, **GeeksforGeeks**, **HackerRank**, *and more.*  
+>
+> 📂 Each problem includes metadata, difficulty tags, and structured documentation — designed for continuous learning and growth.
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arpanxneuro&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/arpanxneuro/codevault"><img src="https://img.shields.io/badge/View%20Repository-232323?style=for-the-badge&logo=github&logoColor=00A6FF" /></a>
 </p>
 
 ---
@@ -48,7 +54,27 @@
 
 ---
 
-### 🌐 Social & Network  
+### 🚀 Featured Projects
+| Project | Description | Stack |
+|----------|--------------|-------|
+| **AlignX AI** | Early-stage AI profiling & career-insight engine | FastAPI · Python · NLP · ML |
+| **Codnex CLI** | CLI for organized coding-problem management | TypeScript · Commander · Inquirer |
+| **CodeVault** | Vault of categorized coding problems | TypeScript · Markdown · Metadata Automation |
+
+---
+
+### 📊 Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpanxneuro&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanxneuro&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arpanxneuro&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:arpanghosh2106@zohomail.in"><img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white&labelColor=0A66C2&color=0A66C2" /></a>
   <a href="https://linkedin.com/in/arpan-ghosh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" /></a>
@@ -56,14 +82,6 @@
   <a href="https://leetcode.com/arpanx"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white&labelColor=F89F1B&color=F89F1B" /></a>
   <a href="https://instagram.com/4.rpan_9.h0sh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" /></a>
 </p>
-
----
-
-### 🚀 Featured Work
-| Project | Brief | Stack |
-|----------|--------|-------|
-| **AlignX AI** | Early-stage AI profiling & career-insight engine | FastAPI · Python · NLP · ML |
-| **Codnex CLI** | CLI for organized coding-problem management | TypeScript · Commander · Inquirer |
 
 ---
 
