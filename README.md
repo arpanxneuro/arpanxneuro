@@ -32,7 +32,7 @@
 > 📂 Each problem includes metadata, difficulty tags, and structured documentation — designed for continuous learning and growth.
 
 <p align="center">
-  <a href="https://github.com/arpanxneuro/codevault"><img src="https://img.shields.io/badge/View%20Repository-232323?style=for-the-badge&logo=github&logoColor=00A6FF" /></a>
+  <a href="https://github.com/arpanxneuro/code-vault"><img src="https://img.shields.io/badge/View%20Repository-232323?style=for-the-badge&logo=github&logoColor=00A6FF" /></a>
 </p>
 
 ---
