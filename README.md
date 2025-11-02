@@ -57,7 +57,6 @@
 ### 🚀 Featured Projects
 | Project | Description | Stack |
 |----------|--------------|-------|
-| **AlignX AI** | Early-stage AI profiling & career-insight engine | FastAPI · Python · NLP · ML |
 | **Codnex CLI** | CLI for organized coding-problem management | TypeScript · Commander · Inquirer |
 | **CodeVault** | Vault of categorized coding problems | TypeScript · Markdown · Metadata Automation |
 
@@ -76,11 +75,30 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="mailto:arpanghosh2106@zohomail.in"><img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white&labelColor=0A66C2&color=0A66C2" /></a>
-  <a href="https://linkedin.com/in/arpan-ghosh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" /></a>
-  <a href="https://kaggle.com/arpan2106"><img src="https://img.shields.io/badge/Kaggle-00B4FF?style=flat&logo=kaggle&logoColor=white&labelColor=00B4FF&color=00B4FF" /></a>
-  <a href="https://leetcode.com/arpanx"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white&labelColor=F89F1B&color=F89F1B" /></a>
-  <a href="https://instagram.com/4.rpan_9.h0sh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" /></a>
+  <a href="mailto:arpanghosh2106@zohomail.in">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white&labelColor=0A66C2&color=0A66C2" />
+  </a>
+  <a href="https://www.linkedin.com/in/arpan-ghosh-471a50329">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
+  </a>
+  <a href="https://facebook.com/arpan.ghosh.241470">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2" />
+  </a>
+  <a href="https://kaggle.com/arpan2106">
+    <img src="https://img.shields.io/badge/Kaggle-00B4FF?style=flat&logo=kaggle&logoColor=white&labelColor=00B4FF&color=00B4FF" />
+  </a>
+  <a href="https://leetcode.com/arpanx">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white&labelColor=F89F1B&color=F89F1B" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/arpanghou3qs">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46&color=2F8D46" />
+  </a>
+  <a href="https://www.hackerrank.com/_arpan_ai_2c_19">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white&labelColor=2EC866&color=2EC866" />
+  </a>
+  <a href="https://instagram.com/4.rpan_9.h0sh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" />
+  </a>
 </p>
 
 ---
