@@ -1,17 +1,8 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00A6FF;">Arpan Ghosh</span></h1>
-<h3 align="center">✨ Building intelligent systems — and products I'd love to use.</h3>
+<h3 align="center">✨ CSE (AI) Undergrad | Tech Creator | Building intelligent systems and products I’d love to use 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arpanxneuro&label=Profile+Views&color=00A6FF&style=flat-square" />
-</p>
-
----
-
-### 🧭 About  
-<p align="center">
-🎓 CSE (AI) Undergrad | Tech Creator | Builder at Heart  
-<br>🚀 Exploring AI × Systems × Product Design  
-<br>🧠 Turning ideas into tools that empower people
 </p>
 
 <p align="center">
@@ -49,26 +40,23 @@
 
 ### ⚙️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,tailwind,typescript,nodejs,express,mongodb,postgres,git,postman,html,css,c,matlab&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,react,tailwind,bootstrap,mui,typescript,nodejs,express,mongodb,postgres,git,postman,html,css,c&perline=8" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-| Project | Description | Stack |
-|----------|--------------|-------|
-| **Codnex CLI** | CLI for organized coding-problem management | TypeScript · Commander · Inquirer |
-| **CodeVault** | Vault of categorized coding problems | TypeScript · Markdown · Metadata Automation |
+| Project | Description | Stack | Link |
+|----------|--------------|-------|------|
+| **Codnex CLI** | CLI for organized coding-problem management | TypeScript · Commander · Inquirer | [NPM](https://www.npmjs.com/package/codnex) |
+| **CodeVault** | Vault of categorized coding problems | TypeScript · Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/code-vault) |
+| **Datly** | Dummy data API platform for developers to fetch realistic JSON data | Node.js · Express · Faker.js · Docusaurus | [Live](https://datly.pages.dev) |
 
 ---
 
 ### 📊 Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpanxneuro&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanxneuro&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arpanxneuro&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
