@@ -69,7 +69,7 @@
 | Project | Description | Stack | Link |
 |----------|--------------|-------|------|
 | **Codnex CLI** | CLI for organized coding-problem management | TypeScript · Commander · Inquirer | [NPM](https://www.npmjs.com/package/codnex) |
-| **Algovault** | Vault of categorized coding problems | TypeScript · Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) |
+| **AlgoVault** | Vault of categorized coding problems | TypeScript · Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) |
 | **Datly** | Dummy data API platform for developers to fetch realistic JSON data | Node.js · Express · Faker.js · Docusaurus | [Live](https://datly.pages.dev) |
 
 ---
