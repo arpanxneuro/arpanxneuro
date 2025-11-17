@@ -11,40 +11,24 @@
 
 ---
 
-### ⚡ AlgoVault — My Problem-Solving Repository  
+### ⚡ AlgoVault Ecosystem — Repository + Explorer  
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Highlight-00A6FF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-> **🧩 AlgoVault** — A centralized repository of coding problems and algorithmic solutions, neatly organized by competitive programming platforms.  
->
-> 🚀 *Built to streamline and track my problem-solving journey across* **LeetCode**, **GeeksforGeeks**, **HackerRank**, *and more.*  
->
-> 📂 Each problem includes metadata, difficulty tags, and structured documentation — designed for continuous learning and growth.
+> **🧩 AlgoVault** — A centralized repository of coding problems and solutions, organized by platforms like **LeetCode**, **GFG**, and **HackerRank**, complete with metadata, tags, and structured documentation.
+
+> **🌐 AlgoVaultX** — An interactive web platform that fetches and displays all AlgoVault problems with statements, metadata, tags, and multi-language code, delivering a seamless exploration experience.
 
 <p align="center">
   <a href="https://github.com/arpanxneuro/algovault">
-    <img src="https://img.shields.io/badge/View%20Repository-232323?style=for-the-badge&logo=github&logoColor=00A6FF" />
+    <img src="https://img.shields.io/badge/AlgoVault%20Repo-232323?style=for-the-badge&logo=github&logoColor=00A6FF" />
   </a>
-</p>
-
----
-
-### 🌐 AlgoVaultX — Problem Explorer Platform  
-<p align="center">
-  <img src="https://img.shields.io/badge/Visit-AlgovaultX-00A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <a href="https://algovaultx.vercel.app">
-    <img src="https://img.shields.io/badge/Open%20Platform-232323?style=for-the-badge&logo=code&logoColor=00A6FF" />
+    <img src="https://img.shields.io/badge/AlgoVaultX%20Platform-232323?style=for-the-badge&logo=vercel&logoColor=00A6FF" />
   </a>
 </p>
-
-> **🌐 AlgoVaultX** — A live web interface that fetches and displays all problems from the AlgoVaultX repository, including metadata, statements, inputs, outputs, tags, and code in multiple languages.  
->  
-> Designed as an extensible, UI-driven layer on top of AlgoVaultX to make problem exploration seamless and developer-friendly.
-
 
 ---
 
