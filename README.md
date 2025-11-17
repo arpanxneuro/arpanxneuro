@@ -11,20 +11,40 @@
 
 ---
 
-### ⚡ CodeVault — My Problem-Solving Repository  
+### ⚡ AlgoVault — My Problem-Solving Repository  
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Highlight-00A6FF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-> **🧩 CodeVault** — A centralized repository of coding problems and algorithmic solutions, neatly organized by competitive programming platforms.  
+> **🧩 AlgoVault** — A centralized repository of coding problems and algorithmic solutions, neatly organized by competitive programming platforms.  
 >
 > 🚀 *Built to streamline and track my problem-solving journey across* **LeetCode**, **GeeksforGeeks**, **HackerRank**, *and more.*  
 >
 > 📂 Each problem includes metadata, difficulty tags, and structured documentation — designed for continuous learning and growth.
 
 <p align="center">
-  <a href="https://github.com/arpanxneuro/code-vault"><img src="https://img.shields.io/badge/View%20Repository-232323?style=for-the-badge&logo=github&logoColor=00A6FF" /></a>
+  <a href="https://github.com/arpanxneuro/algovault">
+    <img src="https://img.shields.io/badge/View%20Repository-232323?style=for-the-badge&logo=github&logoColor=00A6FF" />
+  </a>
 </p>
+
+---
+
+### 🌐 AlgoVaultX — Problem Explorer Platform  
+<p align="center">
+  <img src="https://img.shields.io/badge/Visit-AlgovaultX-00A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://algovaultx.vercel.app">
+    <img src="https://img.shields.io/badge/Open%20Platform-232323?style=for-the-badge&logo=code&logoColor=00A6FF" />
+  </a>
+</p>
+
+> **🌐 AlgoVaultX** — A live web interface that fetches and displays all problems from the AlgoVaultX repository, including metadata, statements, inputs, outputs, tags, and code in multiple languages.  
+>  
+> Designed as an extensible, UI-driven layer on top of AlgoVaultX to make problem exploration seamless and developer-friendly.
+
 
 ---
 
@@ -49,7 +69,7 @@
 | Project | Description | Stack | Link |
 |----------|--------------|-------|------|
 | **Codnex CLI** | CLI for organized coding-problem management | TypeScript · Commander · Inquirer | [NPM](https://www.npmjs.com/package/codnex) |
-| **CodeVault** | Vault of categorized coding problems | TypeScript · Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/code-vault) |
+| **Algovault** | Vault of categorized coding problems | TypeScript · Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) |
 | **Datly** | Dummy data API platform for developers to fetch realistic JSON data | Node.js · Express · Faker.js · Docusaurus | [Live](https://datly.pages.dev) |
 
 ---
