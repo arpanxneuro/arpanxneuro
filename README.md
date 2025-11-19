@@ -42,18 +42,18 @@
 
 ---
 
-### ⚙️ Tech Stack  
+### ⚙️ Tech Stack Explored
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,tailwind,bootstrap,mui,typescript,nodejs,express,mongodb,postgres,git,postman,html,css,c&perline=8" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 My Featured Projects
 | Project | Description | Stack | Link |
 |----------|--------------|-------|------|
 | **Codnex CLI** | CLI tool for streamlined coding-problem workflow management. | TypeScript · Commander · Inquirer | [NPM](https://www.npmjs.com/package/codnex) |
-| **AlgoVault** | Centralized repository of structured coding solutions. |  Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) |
+| **AlgoVault** | Centralized repository of structured coding solutions. | Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) |
 | **AlgoVaultX** | UI platform for browsing and interacting with AlgoVault content. | TypeScript · NextJS · TailwindCSS · ShadCN UI | [Live](https://algovaultx.vercel.app) |
 | **Datly** | Mock-data API serving realistic JSON and CSV outputs for rapid development. | Node.js · Express · Faker.js · Docusaurus | [Live](https://datly.pages.dev) |
 
@@ -69,7 +69,10 @@
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:arpanghosh2106@zohomail.in">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white&labelColor=0A66C2&color=0A66C2" />
+    <img
+      src="https://img.shields.io/badge/Zoho%20Mail-226DB4?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+CiAgICA8cGF0aCBkPSJNMiAxNC41VjUuNWwxMC41IDcuMDcgNy0uMDhWOS44NWwtNyAyLjY2TDIgMTQuNVoiIGZpbGw9IiMyMjZEQjQiIC8+CiAgICA8cGF0aCBkPSJNMyA5LjczdjYuMTNsN2wtNy02LjEzeiIgZmlsbD0iI2Z5YjIxZCIgLz4KICAgIDxwYXRoIGQ9Ik0yIDYuM3Y4LjdsMy44My0zLjMzTDIgNi4zeiIgZmlsbD0iI2UwMjUyNyIvPgo8L3N2Zz4="
+      alt="Zoho Mail"
+    />
   </a>
   <a href="https://www.linkedin.com/in/arpan-ghosh-471a50329">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
