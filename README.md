@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00A6FF;">Arpan Ghosh</span></h1>
-<h3 align="center">✨ CSE (AI) Undergrad | Tech Creator | Building intelligent systems and products I’d love to use 🚀</h3>
+<h3 align="center">✨ CSE (AI) Undergrad | Tech Explorer | Building intelligent systems and products I’d love to use 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arpanxneuro&label=Profile+Views&color=00A6FF&style=flat-square" />
