@@ -56,12 +56,6 @@
 
 ---
 
-### 📊 Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanxneuro&layout=pie&theme=radical&langs_count=8" alt="Top Languages Pie" />
-</p>
----
-
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:arpanghosh2106@zohomail.in">
