@@ -1,12 +1,18 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#00A6FF;">Arpan Ghosh</span></h1>
-<h3 align="center">✨ CSE (AI) Undergrad | Tech Explorer | Building intelligent systems and products I’d love to use 🚀</h3>
+<div align="center">
+  <h1 align="center">👋 Hey, I'm <span style="color:#00A6FF; font: bold;">Arpan Ghosh</span></h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpanxneuro&label=Profile+Views&color=00A6FF&style=flat-square" />
-</p>
+  ### ✨ CSE (AI) Undergrad | Tech Explorer | Building intelligent systems & products I’d love to use 🚀  
+  AI | ML | MERN · Learning, Building, and Innovating 🧠 · Transforming Ideas into Impactful Tech 💡
+</div>
 
+---
+
+### 🧩 Core Domains
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+MERN+%7C+System+Design;Learning%2C+Building%2C+and+Innovating+🧠;Transforming+Ideas+into+Impactful+Tech+💡" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-232323?style=for-the-badge&logo=openai&logoColor=00A6FF" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-232323?style=for-the-badge&logo=tensorflow&logoColor=F7A41D" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-232323?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Product%20Engineering-232323?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -32,13 +38,14 @@
 
 ---
 
-### 🧩 Core Domains
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-232323?style=for-the-badge&logo=openai&logoColor=00A6FF" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-232323?style=for-the-badge&logo=tensorflow&logoColor=F7A41D" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-232323?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Product%20Engineering-232323?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+### 🚀 My Featured Projects
+| Project | Overview | Stack | Status / Link |
+|----------|--------------|-------|------|
+| **AlgoVault** | A centralized repository of structured coding problems and solutions. | Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) |
+| **AlgoVaultX** | Web UI to browse and interact with AlgoVault content. | TypeScript · NextJS · TailwindCSS · ShadCN UI | [Live](https://algovaultx.vercel.app) |
+| **Datly** | Mock-data API for generating realistic JSON / CSV data to aid rapid development. | Node.js · Express · Faker.js · Docusaurus | [Live](https://datly.pages.dev) |
+| **TomeTrack** |Collaborative reading tracker app (MERN + PostgreSQL) to log books, monitor reading habits, and analyze trends. | PostgreSQL · ExpressJS · ReactJS · ShadCN UI | <img src="https://img.shields.io/badge/Alpha‑Collaborative-FFFFFF?style=for-the-badge&labelColor=000000&color=ffffff" width="500" /> |
+| **Codnex CLI** | A CLI tool for managing and streamlining the workflow of coding-problem solving. | TypeScript · Commander · Inquirer | [NPM](https://www.npmjs.com/package/codnex) |
 
 ---
 
@@ -49,21 +56,10 @@
 
 ---
 
-### 🚀 My Featured Projects
-| Project | Description | Stack | Link |
-|----------|--------------|-------|------|
-| **Codnex CLI** | CLI tool for streamlined coding-problem workflow management. | TypeScript · Commander · Inquirer | [NPM](https://www.npmjs.com/package/codnex) |
-| **AlgoVault** | Centralized repository of structured coding solutions. | Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) |
-| **AlgoVaultX** | UI platform for browsing and interacting with AlgoVault content. | TypeScript · NextJS · TailwindCSS · ShadCN UI | [Live](https://algovaultx.vercel.app) |
-| **Datly** | Mock-data API serving realistic JSON and CSV outputs for rapid development. | Node.js · Express · Faker.js · Docusaurus | [Live](https://datly.pages.dev) |
-
----
-
-### 📊 Analytics  
+### 📊 Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanxneuro&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanxneuro&layout=pie&theme=radical&langs_count=8" alt="Top Languages Pie" />
 </p>
-
 ---
 
 ### 🌐 Connect With Me  
