@@ -41,11 +41,12 @@
 ### 🚀 My Featured Projects
 | Project | Overview | Stack | Status / Link |
 |----------|--------------|-------|------|
-| **AlgoVault** | A centralized repository of structured coding problems and solutions. | Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) |
 | **AlgoVaultX** | Web UI to browse and interact with AlgoVault content. | TypeScript · NextJS · TailwindCSS · ShadCN UI | [Live](https://algovaultx.vercel.app) |
 | **Datly** | Mock-data API for generating realistic JSON / CSV data to aid rapid development. | Node.js · Express.js · Faker.js · Docsify | [Live](https://datly.onrender.com) |
-| **TomeTrack** |Collaborative reading tracker app (MERN + PostgreSQL) to log books, monitor reading habits, and analyze trends. | PostgreSQL · ExpressJS · ReactJS · ShadCN UI | <img src="https://img.shields.io/badge/Beta‑Collaborative-FFFFFF?style=for-the-badge&labelColor=000000&color=ffffff" width="500" /> |
-| **Codnex CLI** | A CLI tool for managing and streamlining the workflow of coding-problem solving. | TypeScript · Commander · Inquirer | [NPM](https://www.npmjs.com/package/codnex) |
+| **TomeTrack** | Collaborative reading tracker app (MERN + PostgreSQL) to log books, monitor reading habits, and analyze trends. | PostgreSQL · ExpressJS · ReactJS · ShadCN UI | <img src="https://img.shields.io/badge/Beta Collaborative-FFFFFF?style=for-the-badge&labelColor=000000&color=ffffff" width="300" /> |
+| **Codnex CLI** | A CLI tool for managing and streamlining the workflow of coding-problem solving. | TypeScript · Commander · Inquirer · Chalk | [NPM](https://www.npmjs.com/package/codnex) |
+
+<!-- | **AlgoVault** | A centralized repository of structured coding problems and solutions. | Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) | -->
 
 ---
 
