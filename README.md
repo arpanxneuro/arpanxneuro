@@ -66,7 +66,7 @@
       alt="Zoho Mail"
     />
   </a>
-  <a href="https://www.linkedin.com/in/arpan-ghosh-471a50329">
+  <a href="https://www.linkedin.com/in/arpan-2106g05">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
   </a>
   <a href="https://facebook.com/arpan.ghosh.241470">
@@ -75,7 +75,7 @@
   <a href="https://kaggle.com/arpan2106">
     <img src="https://img.shields.io/badge/Kaggle-00B4FF?style=flat&logo=kaggle&logoColor=white&labelColor=00B4FF&color=00B4FF" />
   </a>
-  <a href="https://leetcode.com/arpanx">
+  <a href="https://leetcode.com/arpanxneuro">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white&labelColor=F89F1B&color=F89F1B" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/arpanghou3qs">
