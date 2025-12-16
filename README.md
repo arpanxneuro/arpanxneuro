@@ -43,11 +43,10 @@
 |----------|--------------|-------|------|
 | **AlgoVaultX** | Web UI to browse and interact with AlgoVault content. | NextJS · ShadCN UI · MongoDB | [Live](https://algovaultx.vercel.app) |
 | **Codnex CLI** | A CLI tool for managing and streamlining the workflow of coding-problem solving. | TypeScript · Commander · Inquirer · Chalk | [Docs](https://codnex-docs.vercel.app) |
+| **TomeTrack** | Collaborative reading tracker app (MERN + PostgreSQL) to log books, monitor reading habits, and analyze trends. | PostgreSQL · ExpressJS · ReactJS · ShadCN UI | <img src="https://img.shields.io/badge/Beta Collaborative-FFFFFF?style=for-the-badge&labelColor=000000&color=ffffff" width="300" /> |
 
 <!-- | **Datly** | Mock-data API for generating realistic JSON / CSV data to aid rapid development. | Node.js · Express.js · Faker.js · Docsify | [Live](https://datly.onrender.com) | -->
 <!-- | **AlgoVault** | A centralized repository of structured coding problems and solutions. | Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) | -->
-
-| **TomeTrack** | Collaborative reading tracker app (MERN + PostgreSQL) to log books, monitor reading habits, and analyze trends. | PostgreSQL · ExpressJS · ReactJS · ShadCN UI | <img src="https://img.shields.io/badge/Beta Collaborative-FFFFFF?style=for-the-badge&labelColor=000000&color=ffffff" width="300" /> |
 
 ---
 
