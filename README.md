@@ -46,8 +46,8 @@
 
 <!-- | **Datly** | Mock-data API for generating realistic JSON / CSV data to aid rapid development. | Node.js · Express.js · Faker.js · Docsify | [Live](https://datly.onrender.com) | -->
 <!-- | **AlgoVault** | A centralized repository of structured coding problems and solutions. | Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) | -->
-<!-- 
-| **TomeTrack** | Collaborative reading tracker app (MERN + PostgreSQL) to log books, monitor reading habits, and analyze trends. | PostgreSQL · ExpressJS · ReactJS · ShadCN UI | <img src="https://img.shields.io/badge/Beta Collaborative-FFFFFF?style=for-the-badge&labelColor=000000&color=ffffff" width="300" /> | -->
+
+| **TomeTrack** | Collaborative reading tracker app (MERN + PostgreSQL) to log books, monitor reading habits, and analyze trends. | PostgreSQL · ExpressJS · ReactJS · ShadCN UI | <img src="https://img.shields.io/badge/Beta Collaborative-FFFFFF?style=for-the-badge&labelColor=000000&color=ffffff" width="300" /> |
 
 ---
 
