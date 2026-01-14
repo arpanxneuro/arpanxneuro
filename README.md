@@ -38,21 +38,19 @@
 
 ---
 
-### 🚀 My Featured Projects
+### 🚀 My Works
 | Project | Overview | Stack | Status / Link |
 |----------|--------------|-------|------|
 | **AlgoVaultX** | Web UI to browse and interact with AlgoVault content. | NextJS · ShadCN UI · MongoDB | [Live](https://algovaultx.vercel.app) |
 | **Codnex CLI** | A CLI tool for managing and streamlining the workflow of coding-problem solving. | TypeScript · Commander · Inquirer · Chalk | [Docs](https://codnex-docs.vercel.app) |
 | **TomeTrack** | Collaborative reading tracker app (MERN + PostgreSQL) to log books, monitor reading habits, and analyze trends. | PostgreSQL · ExpressJS · ReactJS · ShadCN UI | <img src="https://img.shields.io/badge/Beta Collaborative-FFFFFF?style=for-the-badge&labelColor=000000&color=ffffff" width="300" /> |
-
-<!-- | **Datly** | Mock-data API for generating realistic JSON / CSV data to aid rapid development. | Node.js · Express.js · Faker.js · Docsify | [Live](https://datly.onrender.com) | -->
-<!-- | **AlgoVault** | A centralized repository of structured coding problems and solutions. | Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) | -->
+| **AlgoVault** | A centralized repository of structured coding problems and solutions. | Markdown · Metadata Automation | [GitHub](https://github.com/arpanxneuro/algovault) |
 
 ---
 
 ### ⚙️ Tech Stack Explored
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,tailwind,bootstrap,mui,typescript,nodejs,express,mongodb,postgres,git,postman,html,css,c&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,angular,tailwind,bootstrap,mui,nodejs,express,nestjs,mongodb,postgres,git,postman,java,c,&perline=8" />
 </p>
 
 ---
