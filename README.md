@@ -60,7 +60,7 @@ A web-based platform that dynamically fetches AlgoVault data and presents:
 
 ---
 
-## ⚙️ Technology Stack Explored
+## ⚙️ Technology Stack & Tools Explored
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,java,typescript,react,nextjs,angular,tailwind,bootstrap,mui,nodejs,express,nestjs,mongodb,postgres,git,postman,c&perline=8" />
