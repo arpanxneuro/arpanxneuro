@@ -13,7 +13,7 @@
 
 - 🎓 **Undergraduate in Computer Science & Engineering (AI Specialization)**
 - 🧠 Strong focus on **Artificial Intelligence, Machine Learning, and Product-Driven Engineering**
-- 💻 Full-stack developer with hands-on experience across **MERN, PostgreSQL, and modern frontend frameworks**
+- 💻 Full-stack intern with hands-on experience across **MERN, PostgreSQL, and modern frontend frameworks**
 - 🚀 Long-term vision: **Founding and scaling AI-first products**
 
 ---
@@ -42,11 +42,6 @@ A centralized and highly organized repository of coding problems and solutions s
 
 ### 🌐 AlgoVaultX — Interactive Problem Explorer  
 A web-based platform that dynamically fetches AlgoVault data and presents:
-
-- Problem statements
-- Tags & metadata
-- Multi-language code views
-- Seamless exploration UX
 
 <p align="center">
   <a href="https://github.com/arpanxneuro/algovault">
