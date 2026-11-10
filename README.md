@@ -1,11 +1,20 @@
+# 👋 Hi, I'm Arpan Ghosh
+
 <div align="center">
 
-<h1>👋 Hi, I'm <span style="color:#00A6FF;"><b>Arpan Ghosh</b></span></h1>
+### AI/ML Learner · Full-Stack Web Development Intern · Aspiring AI Product Engineer
 
-### B.Tech CSE (AI) · AI/ML Learner · Full-Stack Developer · Product-Oriented Builder
+**Building intelligent systems, engineering software, and turning ideas into practical products.**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=24D6B9&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence+%26+ML;Building+Full-Stack+Applications;Experimenting+with+Deep+Learning;Engineering+Scalable+Backend+Systems;Turning+Ideas+into+Real+Products" />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=650&lines=Learning+AI+%26+Machine+Learning;Building+Full-Stack+Applications;Exploring+Product+Engineering;Learning+by+Building+Practical+Projects" />
+  <a href="mailto:arpanghosh2106@zohomail.in">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-24D6B9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arpan-2106g05">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-466CE8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -14,121 +23,156 @@
 
 ## 👨‍💻 About Me
 
-I'm a **3rd-year B.Tech Computer Science & Engineering student specializing in Artificial Intelligence**, focused on learning how intelligent systems are designed, built, and integrated into real-world software.
+I'm a **3rd-year B.Tech Computer Science and Engineering student specializing in Artificial Intelligence**, interested in building intelligent software systems and technology-driven products.
 
-* 🎓 Studying **Computer Science & Engineering (AI)**
-* 🤖 Learning **Artificial Intelligence & Machine Learning**
-* 💻 Building applications with **modern full-stack technologies**
-* 🧩 Exploring **software engineering, backend systems, databases, and product development**
-* 🛠️ Learning primarily through **practical projects and experiments**
-* 🚀 Long-term goal: **build AI-first products and systems**
+My primary interests lie at the intersection of **Artificial Intelligence, Machine Learning, Full-Stack Development, and Product Engineering**.
+
+I enjoy understanding how things work internally, experimenting with different technologies, and transforming technical concepts into functional applications.
+
+- 🎓 B.Tech CSE (Artificial Intelligence)
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Deep Learning
+- 💻 Developing full-stack applications and backend systems
+- 🧠 Experimenting with Python, PyTorch, data processing, and ML architectures
+- 🏗️ Interested in scalable system design, databases, APIs, and cloud infrastructure
+- 🚀 Aspiring to build AI-first products and technology ventures
+
+**My approach:** Learn → Experiment → Build → Evaluate → Improve.
 
 ---
 
-## 🧠 Current Focus
+## 🎯 Current Focus
 
-```text
-Artificial Intelligence & Machine Learning
-        ↓
-Deep Learning & Practical ML Systems
-        ↓
-AI-powered Application Development
-        ↓
-Full-Stack Product Engineering
-        ↓
-Building → Experimenting → Learning → Improving
-```
+| Domain | Focus Areas |
+|---|---|
+| Artificial Intelligence | AI applications, intelligent systems |
+| Machine Learning | Supervised learning, model development, evaluation |
+| Deep Learning | Neural networks, PyTorch, CNNs, MLPs |
+| Backend Engineering | NestJS, Node.js, API architecture |
+| Full-Stack Development | React, Angular, Next.js |
+| Database Engineering | PostgreSQL, MongoDB, SQL |
+| Infrastructure | Docker, deployment, cloud fundamentals |
+| Product Engineering | Architecture, MVP development, scalability |
 
 ---
 
 ## ⚙️ Technology Stack
 
-### Languages & Frameworks
+### Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,typescript,javascript,html,css,react,vite,nextjs,angular,tailwind,bootstrap,mui,nodejs,express,nestjs,mongodb,postgres,git,postman,c,&perline=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,html,css" />
 </p>
 
-### Areas I'm Exploring
+### Frontend Development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-232323?style=for-the-badge&logo=openai&logoColor=00A6FF" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-232323?style=for-the-badge&logo=tensorflow&logoColor=F7A41D" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-232323?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Product%20Engineering-232323?style=for-the-badge&logo=vercel&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,tailwind,bootstrap" />
 </p>
 
----
+### Backend Development
 
-## 🚀 Projects & Experiments
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
-I use projects to turn concepts into working systems and to explore the intersection of **AI, software engineering, data, and product development**.
+### Databases & Data Technologies
 
-### 🔬 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
 
-* Exploring **Artificial Intelligence and Machine Learning** through practical implementations
-* Experimenting with **ML models and AI-powered applications**
-* Building a stronger foundation in **data-driven problem solving**
+### AI / ML & Data Science
 
-### 🌐 Full-Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-* Developing full-stack applications using **React, Next.js, Node.js, Express, NestJS, MongoDB, and PostgreSQL**
-* Exploring backend architecture, APIs, databases, and scalable application design
-* Applying software engineering concepts through hands-on projects
+### Development Tools & Infrastructure
 
----
-
-## 🧩 Problem Solving & Learning
-
-<p align="center">
-  <a href="https://leetcode.com/arpanxneuro">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/arpanghou3qs">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/_arpan_ai_2c_19">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/arpan2106">
-    <img src="https://img.shields.io/badge/Kaggle-00B4FF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,cloudflare" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🚀 Featured Projects & Engineering Experiments
 
-<p align="center">
-  <a href="mailto:arpanghosh2106@zohomail.in">
-    <img src="https://img.shields.io/badge/Zoho%20Mail-226DB4?style=flat&logo=maildotru&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/arpan-2106g05">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/arpan2106">
-    <img src="https://img.shields.io/badge/Kaggle-00B4FF?style=flat&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/arpanxneuro">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/arpanghou3qs">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/_arpan_ai_2c_19">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/4.rpan_9.h0sh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-</p>
+I believe practical implementation is one of the most effective ways to understand technology. My projects explore different areas of software engineering, artificial intelligence, and product development.
+
+### 🧠 AI & Machine Learning
+
+**AgriShield AI — Intelligent Agricultural Resource Optimization**
+
+- Exploring AI-driven approaches for rice blast disease management.
+- Working with computer vision, yield prediction, weather intelligence, and reinforcement learning.
+- Focused on multi-objective agricultural resource optimization.
+
+**Smart Retail & Demand Intelligence**
+
+- Exploring machine learning for retail intelligence and predictive analytics.
+- Working with PyTorch neural network architectures.
+- Implementing a multilayer perceptron (MLP) for churn classification.
+
+**AI-Based Career Recommendation & Skill Gap Analysis**
+
+- Exploring AI-powered student career recommendations.
+- Focused on student profiles, skills, recommendations, and skill-gap analysis.
+- Interested in applying data-driven approaches to career guidance.
 
 ---
 
-<p align="center">
-  <i>Learning by building. Building to understand. Improving with every iteration.</i>
-</p>
+## 📚 Learning & Development
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Learner;Full-Stack+Developer;Software+Engineering+Enthusiast;Building+Practical+Projects" />
-</p>
+Currently investing time in:
+
+- Machine Learning fundamentals and practical implementation.
+- Deep Learning architectures and PyTorch.
+- Data structures and algorithms.
+- Backend architecture using NestJS.
+- PostgreSQL and database optimization.
+- Docker, deployment, and DevOps fundamentals.
+- Building AI-powered applications and products.
+
+---
+
+## 🧩 Problem Solving & Data Science Platforms
+
+<div align="center">
+
+<a href="https://leetcode.com/arpanxneuro">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/arpanghou3qs">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/_arpan_ai_2c_19">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://kaggle.com/arpan2106">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:arpanghosh2106@zohomail.in">
+  <img src="https://img.shields.io/badge/Email-226DB4?style=for-the-badge&logo=maildotru&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/arpan-2106g05">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/4.rpan_9.h0sh">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://kaggle.com/arpan2106">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://leetcode.com/arpanxneuro">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white
